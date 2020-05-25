@@ -1,1 +1,1 @@
-# flutterProductsMng
+Flutter products management example
